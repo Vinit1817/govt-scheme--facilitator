@@ -1,0 +1,10 @@
+Scheme Name: PM Scholarship Scheme
+Category: Student
+Caste: General, OBC, SC, ST
+Income: <=600000
+Age: 18-25
+
+Link: https://scholarships.gov.in
+
+Benefits:
+Financial support for students

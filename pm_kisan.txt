@@ -1,0 +1,12 @@
+Scheme Name: PM Kisan Samman Nidhi
+Category: Farmer
+Caste: All
+Income: Any
+
+Link: https://pmkisan.gov.in
+
+Benefits:
+₹6000 per year to farmers
+
+Eligibility:
+Must be a farmer

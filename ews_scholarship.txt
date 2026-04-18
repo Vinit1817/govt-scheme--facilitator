@@ -1,0 +1,9 @@
+Scheme Name: EWS Scholarship
+Category: Student
+Caste: General
+Income: <=800000
+
+Link: https://scholarships.gov.in
+
+Benefits:
+Scholarship for economically weaker section students

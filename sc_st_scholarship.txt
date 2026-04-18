@@ -1,0 +1,9 @@
+Scheme Name: SC ST Scholarship
+Category: Student
+Caste: SC, ST
+Income: <=500000
+
+Link: https://scholarships.gov.in
+
+Benefits:
+Scholarship support for SC/ST students

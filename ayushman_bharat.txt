@@ -1,0 +1,9 @@
+Scheme Name: Ayushman Bharat Yojana
+Category: General
+Caste: All
+Income: <=500000
+
+Link: https://pmjay.gov.in
+
+Benefits:
+Free health insurance up to ₹5 lakh per family
